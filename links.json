@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Community",
+    "links": [
+      {
+        "text": "Twitter",
+        "url": "https://twitter.com/buildonbase"
+      },
+      {
+        "text": "Discord",
+        "url": "https://base.org/discord"
+      },
+      {
+        "text": "Blog",
+        "url": "https://base.mirror.xyz/"
+      }
+    ]
+  }
+]
