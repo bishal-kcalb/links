@@ -4,15 +4,23 @@
     "links": [
       {
         "text": "Twitter",
-        "url": "https://twitter.com/buildonbase"
+        "url": "https://twitter.com/aigisos"
       },
       {
         "text": "Discord",
-        "url": "https://base.org/discord"
+        "url": "https://discord.gg/sQTSYs9Mps"
       },
       {
-        "text": "Blog",
-        "url": "https://base.mirror.xyz/"
+        "text": "Telegram",
+        "url": "https://t.me/aigisos"
+      },
+      {
+         "text": "Medium",
+        "url": "https://medium.com/@aigisos"
+      },
+     {
+         "text": "Github",
+        "url": "https://github.com/JResearchLabs/aigisos"
       }
     ]
   }
